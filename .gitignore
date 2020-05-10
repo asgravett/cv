@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+
+# Cache output
+.cache/
+
+# Package lock file
+package-lock.json
